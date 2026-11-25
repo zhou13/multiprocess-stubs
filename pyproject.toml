@@ -1,6 +1,6 @@
 [project]
 name = "multiprocess-stubs"
-version = "0.1.0"
+version = "0.1.0.post1"
 description = "Type stubs for the multiprocess library."
 authors = [
     { name = "Yichao Zhou", email = "zyc@berkeley.edu" }
@@ -17,8 +17,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/zhou13/multiprocess-stub"
-Issues = "https://github.com/zhou13/multiprocess-stub/issues"
+Homepage = "https://github.com/zhou13/multiprocess-stubs"
+Issues = "https://github.com/zhou13/multiprocess-stubs/issues"
 
 
 [build-system]
